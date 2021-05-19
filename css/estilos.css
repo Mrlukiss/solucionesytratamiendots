@@ -1,0 +1,15 @@
+
+   body{
+   
+    background-color: #ccc;   /*color en codigo hexadecimal o rgb*/
+    
+    background-size: 1500px 660px;   /*contain, cover, pixel,porcentaje*/
+    
+    background-image: url(imagenes/ppp.jpg);
+    
+    background-repeat: no-repeat;   /*no-repeat , repeat*/
+    
+    background-attachment: fixed;   /* scroll, fixed*/
+    
+    }
+    
